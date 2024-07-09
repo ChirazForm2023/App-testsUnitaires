@@ -1,13 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1719517606275" clover="3.2.0">
-  <project timestamp="1719517606275" name="All files">
-    <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="7" coveredelements="7" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
-    <file name="inverse.js" path="C:\Users\Chira\Formations\autoformations\Docker\DockerisationAppChiraz\AtelierTestUnitaire\inverse.js">
-      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
-    </file>
+<coverage generated="1720085742181" clover="3.2.0">
+  <project timestamp="1720085742181" name="All files">
+    <metrics statements="20" coveredstatements="20" conditionals="12" coveredconditionals="11" methods="8" coveredmethods="8" elements="40" coveredelements="39" complexity="0" loc="20" ncloc="20" packages="2" files="6" classes="6"/>
+    <package name="AtelierTestUnitaire">
+      <metrics statements="17" coveredstatements="17" conditionals="8" coveredconditionals="8" methods="7" coveredmethods="7"/>
+      <file name="filtrePremier.js" path="C:\Users\Chira\Formations\autoformations\Docker\DockerisationAppChiraz\AtelierTestUnitaire\filtrePremier.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="inverse.js" path="C:\Users\Chira\Formations\autoformations\Docker\DockerisationAppChiraz\AtelierTestUnitaire\inverse.js">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="premier.js" path="C:\Users\Chira\Formations\autoformations\Docker\DockerisationAppChiraz\AtelierTestUnitaire\premier.js">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="2" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+      <file name="produit.js" path="C:\Users\Chira\Formations\autoformations\Docker\DockerisationAppChiraz\AtelierTestUnitaire\produit.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="regroupObj.js" path="C:\Users\Chira\Formations\autoformations\Docker\DockerisationAppChiraz\AtelierTestUnitaire\regroupObj.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="AtelierTestUnitaire.coverage">
+      <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="calcul.js" path="C:\Users\Chira\Formations\autoformations\Docker\DockerisationAppChiraz\AtelierTestUnitaire\coverage\calcul.js">
+        <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="3" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
   </project>
 </coverage>
